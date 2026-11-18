@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Colors are RGB triplets so Tailwind's opacity modifiers work (bg-p-fg/10 etc.). */
+/* Sport Scorings: stadium night, deep navy with floodlight lime, bold scoreboard type */
+.theme-sport {
+  --p-bg: 10 16 34;
+  --p-panel: 17 26 50;
+  --p-fg: 240 244 255;
+  --p-muted: 160 172 204;
+  --p-subtle: 98 110 145;
+  --p-accent: 198 244 50;
+  --p-ink: 10 16 34;
+  --p-font-display: 'Bebas Neue', sans-serif;
+  --p-font-body: 'Archivo', sans-serif;
+  --p-font-mono: 'Roboto Mono', monospace;
+  --p-radius: 14px;
+  --p-radius-sm: 8px;
+  --p-shadow: none;
+}
+
+body {
+  margin: 0;
+  background-color: #0a1022;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
