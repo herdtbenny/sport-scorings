@@ -2,7 +2,7 @@
 
 Live-Tabellen, Spieltage und Torjäger für Bundesliga, Premier League und mehr – direkt aus der OpenLigaDB.
 
-Teil meines Portfolios: [portfolio.websbybenny.de](https://portfolio.websbybenny.de/#projects)
+**Live:** [sport-scorings.websbybenny.de](https://sport-scorings.websbybenny.de) · Teil meines Portfolios: [portfolio.websbybenny.de](https://portfolio.websbybenny.de/#projects)
 
 ## Funktionen
 
